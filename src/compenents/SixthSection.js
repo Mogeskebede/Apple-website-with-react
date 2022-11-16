@@ -2,7 +2,7 @@ import React from 'react'
 import apple_tv_logo from './images/icons/apple-tv-logo.png'
 import banker from './images/home/banker.png'
 import watch_series5 from './images/icons/watch-series5-logo.png'
-
+//to create 
 function SixthSection() {
     return (
         <section className="fifth-heghlight-wrapper">
